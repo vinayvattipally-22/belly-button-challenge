@@ -29,3 +29,7 @@ Explore the charts below to gain insights into the belly button biodiversity for
 ## Important Note:
 Ensure that you have an internet connection as the dashboard fetches data from an external API.
 The dashboard is designed to be user-friendly, and all charts will update based on the selected test subject ID.
+
+### Github Pages
+The app is deployed to the github pages successfully 
+here is the link:  https://vinayvattipally-22.github.io/belly-button-challenge/
